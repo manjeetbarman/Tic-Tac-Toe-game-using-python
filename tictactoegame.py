@@ -36,5 +36,3 @@ label.grid(row=3, column=0, columnspan=3)
 
 root.mainloop()
 
-
-
